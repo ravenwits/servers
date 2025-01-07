@@ -112,6 +112,12 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Fetch](https://github.com/zcaceres/fetch-mcp)** - A server that flexibly fetches HTML, JSON, Markdown, or plaintext
 - **[ArangoDB](https://github.com/ravenwits/mcp-server-arangodb)** - MCP Server that provides database interaction capabilities through [ArangoDB](https://arangodb.com/).
 
+## 📚 Frameworks
+
+These are high-level frameworks that make it easier to build MCP servers.
+
+* [FastMCP](https://github.com/punkpeye/fastmcp) (TypeScript)
+* [EasyMCP](https://github.com/zcaceres/easy-mcp/) (TypeScript)
 
 ## 📚 Resources
 
